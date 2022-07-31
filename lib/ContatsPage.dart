@@ -1,6 +1,6 @@
 import 'dart:typed_data';
 
-import 'package:contacts_book/CreateNewContact.dart';
+import 'package:contacts_book/CreateContact/CreateNewContact.dart';
 import 'package:contacts_service/contacts_service.dart';
 import 'package:flutter/material.dart';
 
